@@ -1,5 +1,5 @@
 /*
-Домашнее задание
+Домашнее задание 1
 1. Реализуйте 3 метода, чтобы в каждом из них получить разные исключения:
 - ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4 - выход за пределы массива
 - ArithmeticException: / by zero - делить на 0 нельзя
