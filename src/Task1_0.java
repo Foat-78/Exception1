@@ -5,7 +5,7 @@
  кода ошибки, иначе - длину массива.
 */
 
-public class seminar1_0 {
+public class Task1_0 {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4};
         int minLength = 3;
